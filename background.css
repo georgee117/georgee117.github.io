@@ -9,7 +9,7 @@ body {
 .menubar {
   grid-area: mb;
   list-style-type: none;
-  background: #b4d0e2;
+  background: #b4d0e4;
   cursor: pointer;
   overflow: hidden;
   margin: 0px;
@@ -21,7 +21,7 @@ body {
     float:left;
     display: block;
       padding: 10px 40px;
-  color: gray;
+  color: black;
   text-align: center;
     padding-top: 48px;
     padding-bottom: 49px;
